@@ -1,6 +1,6 @@
 # best-repo-ever
 
-■ Ahi vamos!
+Ahi vamos!
 MIentras tanto... yo me encargo
 --------------------------------------------------------------
 
@@ -14,5 +14,5 @@ Ut hendrerit semper vel class aptent taciti sociosqu.
 Ad litora torquent per conubia nostra inceptos himenaeos.
 
 --------------------------------------------------------------
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+ULTIMA LINEA
+--------------------------------------------------------------
